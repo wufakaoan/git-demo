@@ -17,6 +17,6 @@ hello mastiff,hello Git!14
 bye mastiff,hello Git!15
 bye mastiff,hello Git!16
 bye mastiff,hello Git!17
-bye mastiff,hello Git!18
 bye mastiff,hello Git!19-555
-bye mastiff,hello Git!20-444
+bye mastiff,hello Git!18-111
+bye mastiff,hello Git!20-000
